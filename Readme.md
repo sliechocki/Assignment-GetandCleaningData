@@ -24,5 +24,5 @@ CodeBook.md described the data source, variables, package and transformations do
 
 run_analysis.R is the script devided in 12 steps to perform the preprocessing of the "Human Activity Recognition Using Smartphones Dataset". 
 
-tidydata.csv is the cleaned data obtained after running the script described in this project. 
+tidydata.csv/tidydata.txt is the cleaned data obtained after running the script described in this project. 
 
